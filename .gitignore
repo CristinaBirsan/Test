@@ -1,5 +1,5 @@
 #Ignore file named "node_module"
-node_module/*
+node_modules/
 
 #Ignore all .json files
 *.json
